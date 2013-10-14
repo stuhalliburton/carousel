@@ -38,7 +38,7 @@ img {
 }
 
 #carousel:hover {
-  animation: spin 0.06666667s infinite linear;
+  animation: spin 3s infinite linear;
 }
 
 @keyframes spin {
@@ -66,10 +66,8 @@ img {
 }
 
 #carousel .one {
-  width: 100%;
-  height: 100%;
-  background: url(/images/muybridge.jpg);
-  background-position: -19px -17px;
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -29px -17px;
   -webkit-transform: rotateY(0deg) translateZ(310px);
   -moz-transform: rotateY(0deg) translateZ(310px);
   -o-transform: rotateY(0deg) translateZ(310px);
@@ -77,6 +75,8 @@ img {
 }
 
 #carousel .two {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -166px -17px;
   -webkit-transform: rotateY(22.5deg) translateZ(310px);
   -moz-transform: rotateY(22.5deg) translateZ(310px);
   -o-transform: rotateY(22.5deg) translateZ(310px);
@@ -84,6 +84,8 @@ img {
 }
 
 #carousel .three {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -306px -17px;
   -webkit-transform: rotateY(45deg) translateZ(310px);
   -moz-transform: rotateY(45deg) translateZ(310px);
   -o-transform: rotateY(45deg) translateZ(310px);
@@ -91,6 +93,8 @@ img {
 }
 
 #carousel .four {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -446px -17px;
   -webkit-transform: rotateY(67.5deg) translateZ(310px);
   -moz-transform: rotateY(67.5deg) translateZ(310px);
   -o-transform: rotateY(67.5deg) translateZ(310px);
@@ -98,6 +102,8 @@ img {
 }
 
 #carousel .five {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -29px -123px;
   -webkit-transform: rotateY(90deg) translateZ(310px);
   -moz-transform: rotateY(90deg) translateZ(310px);
   -o-transform: rotateY(90deg) translateZ(310px);
@@ -105,6 +111,8 @@ img {
 }
 
 #carousel .six {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -166px -123px;
   -webkit-transform: rotateY(112.5deg) translateZ(310px);
   -moz-transform: rotateY(112.5deg) translateZ(310px);
   -o-transform: rotateY(112.5deg) translateZ(310px);
@@ -112,6 +120,8 @@ img {
 }
 
 #carousel .seven {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -306px -123px;
   -webkit-transform: rotateY(135deg) translateZ(310px);
   -moz-transform: rotateY(135deg) translateZ(310px);
   -o-transform: rotateY(135deg) translateZ(310px);
@@ -119,6 +129,8 @@ img {
 }
 
 #carousel .eight {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -446px -123px;
   -webkit-transform: rotateY(157.5deg) translateZ(310px);
   -moz-transform: rotateY(157.5deg) translateZ(310px);
   -o-transform: rotateY(157.5deg) translateZ(310px);
@@ -126,6 +138,8 @@ img {
 }
 
 #carousel .nine {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -29px -123px;
   -webkit-transform: rotateY(180deg) translateZ(310px);
   -moz-transform: rotateY(180deg) translateZ(310px);
   -o-transform: rotateY(180deg) translateZ(310px);
@@ -133,6 +147,8 @@ img {
 }
 
 #carousel .ten {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -166px -123px;
   -webkit-transform: rotateY(202.5deg) translateZ(310px);
   -moz-transform: rotateY(205.5deg) translateZ(310px);
   -o-transform: rotateY(202.5deg) translateZ(310px);
@@ -140,6 +156,8 @@ img {
 }
 
 #carousel .eleven {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -306px -123px;
   -webkit-transform: rotateY(225deg) translateZ(310px);
   -moz-transform: rotateY(225deg) translateZ(310px);
   -o-transform: rotateY(225deg) translateZ(310px);
@@ -147,6 +165,8 @@ img {
 }
 
 #carousel .twelve {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -446px -123px;
   -webkit-transform: rotateY(247.5deg) translateZ(310px);
   -moz-transform: rotateY(247.5deg) translateZ(310px);
   -o-transform: rotateY(247.5deg) translateZ(310px);
@@ -154,6 +174,8 @@ img {
 }
 
 #carousel .thirteen {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -29px -232px;
   -webkit-transform: rotateY(270deg) translateZ(310px);
   -moz-transform: rotateY(270deg) translateZ(310px);
   -o-transform: rotateY(270deg) translateZ(310px);
@@ -161,6 +183,8 @@ img {
 }
 
 #carousel .fourteen {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -166px -232px;
   -webkit-transform: rotateY(292.5deg) translateZ(310px);
   -moz-transform: rotateY(292.5deg) translateZ(310px);
   -o-transform: rotateY(292.5deg) translateZ(310px);
@@ -168,6 +192,8 @@ img {
 }
 
 #carousel .fifteen {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -306px -232px;
   -webkit-transform: rotateY(315deg) translateZ(310px);
   -moz-transform: rotateY(315deg) translateZ(310px);
   -o-transform: rotateY(315deg) translateZ(310px);
@@ -175,6 +201,8 @@ img {
 }
 
 #carousel .sixteen {
+  background: url(/images/muybridge.jpg) no-repeat;
+  background-position: -446px -232px;
   -webkit-transform: rotateY(337.5deg) translateZ(310px);
   -moz-transform: rotateY(337.5deg) translateZ(310px);
   -o-transform: rotateY(337.5deg) translateZ(310px);
